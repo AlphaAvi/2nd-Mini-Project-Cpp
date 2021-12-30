@@ -162,8 +162,7 @@ while(1)
 		exit(0);
 	}
 }
-
-        system("pause");
+	system("pause");
         return 0 ;
 }
 
